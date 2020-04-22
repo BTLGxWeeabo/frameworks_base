@@ -1223,14 +1223,10 @@ public class VolumeDialogImpl implements VolumeDialog,
                     cleanExpandedRows();
                     mExpandRows.setExpanded(mExpanded);
                 }, 50));
-<<<<<<< HEAD
-        if (!isLandscape()) animator.translationX((mDialogView.getWidth() / 2.0f)*(isAudioPanelOnLeftSide() ? -1 : 1));
-=======
         if (!isLandscape()) {
             animator.translationX(
                     (mDialogView.getWidth() / 2.0f) * (!isAudioPanelOnLeftSide() ? 1 : -1));
         }
->>>>>>> 56aed9af70f... SystemUI: Redesign volume dialog
         animator.start();
         checkODICaptionsTooltip(true);
         mController.notifyVisible(false);
