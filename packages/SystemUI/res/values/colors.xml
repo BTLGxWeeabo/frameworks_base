@@ -208,4 +208,7 @@
     <!-- QS Drag handle -->
     <color name="qs_drag_handle_color">#66e5e5e5</color>
 
+    <color name="volume_background_tint">#f2f2f2</color>
+    <color name="divider_stroke_color">#E0E0E0</color>
+
 </resources>

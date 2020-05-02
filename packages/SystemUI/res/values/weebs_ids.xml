@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *
+ * Copyright (c) 2020, Google LLC
+ * Copyright (c) 2020, xyzscape prjkt
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+*/
+-->
+<resources>
+    <item type="id" name="assist_hint_left" />
+    <item type="id" name="assist_hint_right" />
+    <item type="id" name="assist_orb" />
+    <item type="id" name="assist_orb_navbar_scrim" />
+    <item type="id" name="assist_orb_scrim" />
+    <item type="id" name="assist_prompt" />
+    <item type="id" name="chip_background" />
+    <item type="id" name="chip_container" />
+    <item type="id" name="chip_element_padding" />
+    <item type="id" name="chip_icon" />
+    <item type="id" name="chip_label" />
+    <item type="id" name="chips" />
+    <item type="id" name="chips_inline_container" />    
+    <item type="id" name="invocation_lights" />
+    <item type="id" name="transcription" />
+    <item type="id" name="greeting" />
+    <item type="id" name="keyboard" />
+    <item type="id" name="keyboard_icon_image" />
+    <item type="id" name="zerostate" />
+    <item type="id" name="zerostate_icon_image" />
+    <item type="id" name="edge_lights" />
+	<item type="id" name="glow" />
+    <item type="id" name="blue_glow" />
+    <item type="id" name="green_glow" />
+	<item type="id" name="red_glow" />
+	<item type="id" name="yellow_glow" />
+    <item type="id" name="search_logo" />
+    <item type="id" name="left_handle" />
+    <item type="id" name="right_handle" />
+</resources>
